@@ -10,14 +10,14 @@ Get perfect desgning everytime for non-designer
 
 Then...
 
-...
+```
 import { shadowWizard } from 'shadowWizard';
 
 shad({
     shadow_type: 'soft',
     padding:false
 });
-...
+```
 
 
 ## options
